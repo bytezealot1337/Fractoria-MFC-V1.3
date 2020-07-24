@@ -1,7 +1,10 @@
 # Fractoria-MFC-v1.3
+#
 
-================================================================================
-    MICROSOFT FOUNDATION CLASS LIBRARY : Fractoria Project Overview
+===============================================================================
+
+MICROSOFT FOUNDATION CLASS LIBRARY : Fractoria Project Overview
+
 ===============================================================================
 
 The application wizard has created this Fractoria application for
